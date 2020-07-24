@@ -38,3 +38,4 @@ driver.find_elements_by_class_name('ico-group')[3].click()
 # time.sleep(2)
 # Select(s).select_by_index(1)
 #/html/body/div[5]/div[2]/div/div[1]/div[2]/div/div[2]/div[1]/div[2]/iframe
+#测试
